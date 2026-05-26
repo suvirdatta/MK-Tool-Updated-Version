@@ -90,6 +90,8 @@ After the installation is complete, run the tool:
 python main.py
 ```
 
+
+After edit all latest code, then re-open a new CMD in the main folder and paste this to make exe
 ```shell
 python -m PyInstaller --onefile --windowed `
 --name "SD-PUBG-Mobile-Tool" `
