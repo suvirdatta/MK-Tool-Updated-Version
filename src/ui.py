@@ -1060,7 +1060,7 @@ class Ui_MainWindow(object):
             self.ipad_rest_btn.setText(QCoreApplication.translate("MainWindow", u"Reset Resolution", None))
             self.label_8.setText("")
             self.about_label_text.setText(QCoreApplication.translate("MainWindow",
-                                                                     u"<h2>Optimize Your PUBG Mobile Experience with MK PUBG Mobile Tool</h2>\n"
+                                                                     u"<h2>Optimize Your PUBG Mobile Experience with SD PUBG Mobile Tool</h2>\n"
                                                                      "\n"
                                                                      "                                <h3>Features:</h3>\n"
                                                                      "                                <ul>\n"
@@ -1076,8 +1076,8 @@ class Ui_MainWindow(object):
                                                                      "                                <h3>Contact Me:</h3>\n"
                                                                      "                                <ul>\n"
                                                                      "                                <li>GitHub: <a href=\"ht"
-                                                                     "tps://github.com/MohamedKVIP\">https://github.com/MohamedKVIP</a></li>\n"
-                                                                     "                                <li>Discord Community: <a href=\"https://discord.gg/PDPJM6e6PC\">https://discord.gg/PDPJM6e6PC</a></li>\n"
+                                                                     "tps://github.com/suvirdatta\">https://github.com/suvirdatta</a></li>\n"
+                                                                     "                                <li>Discord Community: <a href=\"https://discord.gg/SxAv2SDC\">https://discord.gg/SxAv2SDC</a></li>\n"
                                                                      "                                </ul>\n"
                                                                      "                                <center>\n"
                                                                      "                                <p>Level up your gaming experience today!</p>\n"
