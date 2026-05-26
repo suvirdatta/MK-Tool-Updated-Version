@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>SD PUBG Mobile Tool</h1>
+<h1>SD PUBG Mobile Graphics Tool</h1>
 An easy-to-use GFX App For Gameloop (PUBG Mobile)<br><br>
 
 
@@ -9,6 +9,14 @@ An easy-to-use GFX App For Gameloop (PUBG Mobile)<br><br>
 
 </div>
 
+Screenshots
+-----------
+
+Here's a screenshot of the SD PUBG Mobile Tool:
+
+![SD PUBG Mobile Tool screenshot](./images/sdd-pubg-mobile-tool.png)
+![SD PUBG Mobile Tool Optimize screenshot](./images/sdd-pubg-mobile-tool-optimize.png)
+![SD PUBG Mobile Tool About screenshot](./images/sd-pubg-mobile-tool-about.png)
 ------
 <br>
 SD PUBG Mobile Tool is a professional utility tool that enables you to optimize your PUBG Mobile gaming experience on Gameloop emulator on PC. This tool supports all versions of PUBG Mobile, including:
@@ -81,15 +89,6 @@ After the installation is complete, run the tool:
 ```shell
 python main.py
 ```
-
-Screenshots
------------
-
-Here's a screenshot of the SD PUBG Mobile Tool:
-
-![SD PUBG Mobile Tool screenshot](./images/sdd-pubg-mobile-tool.png)
-![SD PUBG Mobile Tool Optimize screenshot](./images/sdd-pubg-mobile-tool-optimize.png)
-![SD PUBG Mobile Tool About screenshot](./images/sd-pubg-mobile-tool-about.png)
 
 Note
 ----
