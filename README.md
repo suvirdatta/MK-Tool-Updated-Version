@@ -90,6 +90,16 @@ After the installation is complete, run the tool:
 python main.py
 ```
 
+```shell
+python -m PyInstaller --onefile --windowed `
+--name "SD-PUBG-Mobile-Tool" `
+--icon "assets\icons\logo.ico" `
+--add-data "assets;assets" `
+--add-data "images;images" `
+--add-data "src;src" `
+main.py
+```
+
 Note
 ----
 
